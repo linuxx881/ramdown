@@ -1,6 +1,6 @@
 # _config.yml
 
-title: ramdown
-description: An unblockable container for Google.
-baseurl: "/ramdown"
-url: "https://linuxx881.github.io/ramdown"
+title: Flappy Bird
+description: A pure HTML5 port of Flappy Bird.
+baseurl: "/flappybird"
+url: "https://linuxx881.github.io/flappybird"
